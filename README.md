@@ -14,7 +14,7 @@ A stable, heavily filtered 5V DC power supply built on a breadboard, designed to
 * **Status Indicator:** 5mm Red LED driven by a 1kΩ current-limiting resistor.
 
 ## Schematic
-<img width="822" height="361" alt="image" src="https://github.com/user-attachments/assets/406a1c7a-dc4d-431c-9c56-dd3be36e2a89" />
+<img width="411" height="180.5" alt="image" src="https://github.com/user-attachments/assets/406a1c7a-dc4d-431c-9c56-dd3be36e2a89" />
 
 
 ## Testing & Verification
