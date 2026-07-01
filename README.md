@@ -24,4 +24,4 @@ A stable, heavily filtered 5V DC power supply built on a breadboard, designed to
 
 ## Breadboard layout
 
-<img width="760" height="1024" alt="image" src="https://github.com/user-attachments/assets/98ca3e85-e800-4d55-82ab-3f7d4d6b899d" />
+<img width="380" height="512" alt="image" src="https://github.com/user-attachments/assets/98ca3e85-e800-4d55-82ab-3f7d4d6b899d" />
